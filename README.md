@@ -94,7 +94,6 @@ DeviceNetworkEvents
 
 ---
 
-## Work Here ##
 ## Chronological Event Timeline 
 
 ### 1. File Download - TOR Installer
